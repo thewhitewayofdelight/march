@@ -14,6 +14,9 @@ UI/UX:
 
 Pengembang:
 - Rainaldi
+
+## Unduh 
+Undah March di sini: https://github.com/thewhitewayofdelight/march/releases/tag/v1.0.0
  
 ## Dokumentasi
 Desain UI/UX: https://www.figma.com/file/KuRZtCqJuxw7WXomEopvPx/PROJECT-RPL?node-id=1%3A2
